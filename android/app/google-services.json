@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276229659396",
+    "project_id": "signindemo-44a24",
+    "storage_bucket": "signindemo-44a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276229659396:android:9cea10fa2e2143009bce51",
+        "android_client_info": {
+          "package_name": "com.ripplscode.googlesignin_flutter_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276229659396-q0fptt6s4ag03cc8l3reurcat3ofps2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ripplscode.googlesignin_flutter_getx",
+            "certificate_hash": "3fc901b034b23e842342b62afc4abb4ed7972a71"
+          }
+        },
+        {
+          "client_id": "276229659396-k08hlc53rn1t02adla9shsaj6hcpil65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH75T3hXWaaBE9vuXxXGN4GDYb53q7t7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276229659396-k08hlc53rn1t02adla9shsaj6hcpil65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
